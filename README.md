@@ -11,7 +11,7 @@ Affirmations App Android adalah aplikasi sederhana berbasis Jetpack Compose yang
 
 ## Demo
 
-[Video demo aplikasi](https://github.com/masrezah/Affirmations-App-Android/raw/main/docs/demo.mp4)
+![Demo aplikasi](docs/demo.gif)
 
 ## Teknologi
 
@@ -26,5 +26,6 @@ Affirmations App Android adalah aplikasi sederhana berbasis Jetpack Compose yang
 2. Buka project di Android Studio.
 3. Tunggu Gradle Sync selesai.
 4. Jalankan aplikasi di emulator atau perangkat Android.
+
 
 
