@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scrollable List Task</string>
+    <string name="affirmation1">Saya mampu mempelajari hal baru satu langkah demi satu langkah.</string>
+    <string name="affirmation2">Kode yang rapi dimulai dari struktur data yang jelas.</string>
+    <string name="affirmation3">Kesalahan kompilasi adalah petunjuk, bukan akhir perjalanan.</string>
+    <string name="affirmation4">Saya bisa membangun tampilan Compose yang efisien dan mudah dibaca.</string>
+    <string name="affirmation5">LazyColumn membantu aplikasi menampilkan daftar panjang dengan hemat.</string>
+    <string name="affirmation6">Card membuat setiap item data terlihat terpisah dan nyaman dipindai.</string>
+    <string name="affirmation7">Resource string menjaga teks aplikasi mudah dirawat.</string>
+    <string name="affirmation8">Resource drawable membuat gambar dapat dipakai ulang di banyak tempat.</string>
+    <string name="affirmation9">Modifier memberi kontrol tata letak tanpa mengubah data.</string>
+    <string name="affirmation10">Saya siap menyelesaikan tugas Android dengan percaya diri.</string>
+</resources>
